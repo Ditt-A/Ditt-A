@@ -79,7 +79,7 @@ IS Lab FILKOM UB
 
 | Track | Hard Skills |
 | --- | --- |
-| Machine Learning | Pandas, NumPy, Scikit-learn, LightGBM, SHAP, Captum, model evaluation |
+| Machine Learning | Pandas, NumPy, Scikit-learn, SHAP, Captum, model evaluation |
 | Deep Learning and CV | PyTorch, TensorFlow, Hugging Face Transformers, OpenCV, MONAI, Ultralytics, Mediapipe |
 | NLP and LLM | Indonesian text preprocessing, RAG, FAISS, PostgreSQL, Gemini/OpenAI workflows, prompt orchestration |
 | Backend and Deployment | FastAPI, Flask, Streamlit, Azure Functions, Docker basics, Git |
@@ -191,7 +191,7 @@ Production-oriented Indonesian text preprocessing library for review pipelines, 
 
 ### 🌫️ [AirSafe School](https://github.com/RedEye1605/airsafe-school)
 
-Air quality prediction and recommendation system for DKI Jakarta schools using time-series features, LightGBM, Kriging, SHAP, and Azure Functions.
+Air quality prediction and recommendation system for DKI Jakarta schools using time-series features, Kriging, SHAP, and Azure Functions.
 
 `Time Series` `Explainable ML` `Serverless`
 
