@@ -1,173 +1,183 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:2EA043&height=220&section=header&text=Ditt-A&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems&descSize=18&descAlignY=55&descColor=C9D1D9" alt="Ditt-A profile banner" />
+<h1 align="center">Aditya Akbar</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=90&lines=Building+AI+systems+from+research+to+usable+apps;Focused+on+RAG%2C+Computer+Vision%2C+and+Applied+ML;Turning+messy+real-world+data+into+practical+tools" alt="Typing intro" />
-  </a>
-</div>
+<p align="center">
+  Computer Science Undergraduate at Universitas Brawijaya<br/>
+  Applied AI builder focused on RAG systems, computer vision, NLP, and practical ML products.
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Ditt-A">
-    <img src="https://img.shields.io/badge/GitHub-Ditt--A-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/GitHub-Ditt--A-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/Ditt-A?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-AI%20%26%20Data-2EA043?style=for-the-badge&logo=githubspark&logoColor=white" alt="Projects badge" />
+  <a href="https://www.linkedin.com/in/aditya-akbar-82a796274/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Akbar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ditt-A&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile views" />
-</div>
-
-<br/>
-
----
-
-### About Me
-
-```python
-class DittA:
-    def __init__(self):
-        self.role = "Applied AI / ML Builder"
-        self.focus = [
-            "Retrieval-Augmented Generation",
-            "Computer Vision",
-            "Medical Image Segmentation",
-            "Human-centered AI applications",
-        ]
-        self.stack = {
-            "languages": ["Python", "SQL", "HTML", "CSS"],
-            "ml": ["PyTorch", "TensorFlow", "Scikit-learn", "LightGBM"],
-            "rag": ["BGE-M3", "BM25", "RRF", "FAISS", "Qwen3-VL", "Gemini"],
-            "apps": ["FastAPI", "Flask", "Streamlit", "Azure Functions"],
-            "data": ["Pandas", "NumPy", "SHAP", "PyMuPDF"],
-        }
-
-    def current_direction(self):
-        return "Building AI systems that are research-aware, explainable, and useful in daily workflows."
-```
+  <a href="mailto:aditya.akkbbar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aditya.akkbbar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### Tech Stack
-
-<div align="center">
-
-**AI, ML, and Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-
-**Applications and Delivery**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-### Featured Projects
+## Snapshot
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### [BrainTumourSegmentation](https://github.com/Ditt-A/BrainTumourSegmentation)
+**Education**
 
-Research experiments for MRI brain tumor segmentation using U-Net and U-Net++ workflows, pretrained checkpoints, inference notebooks, and comparative experiment reports.
-
-`Medical Imaging` `U-Net` `U-Net++` `NIfTI` `PyTorch`
-
-</td>
-<td width="50%" valign="top">
-
-#### [DSNMUI_RAG](https://github.com/Ditt-A/DSNMUI_RAG)
-
-Retrieval-Augmented Generation prototype for DSN-MUI documents, combining OCR, chunking, BGE-M3 embeddings, BM25, RRF fusion, reranking, visual dalil extraction, and FastAPI/Streamlit interfaces.
-
-`RAG` `BGE-M3` `BM25` `FastAPI` `Qwen3-VL`
+Bachelor of Computer Science<br/>
+Universitas Brawijaya<br/>
+2024 - Ongoing<br/>
+GPA: `3.73`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### [Face-Spoofing-Detection](https://github.com/Ditt-A/Face-Spoofing-Detection)
+**Current Areas**
 
-Deep learning pipeline for classifying real and spoofed face images across six categories, with DINOv3, FSFM, YOLO face crops, LoRA fine-tuning, TTA, and ensemble probability fusion.
-
-`Computer Vision` `DINOv3` `FSFM` `YOLO` `LoRA`
+`RAG` `Computer Vision` `NLP`<br/>
+`LLM Apps` `Time Series`<br/>
+`Applied ML Workflows`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### [Leksara](https://github.com/RedEye1605/Leksara)
+**Experience**
 
-Indonesian text preparation toolkit for review pipelines, with preset-driven cleaning, PII masking, slang normalization, rating extraction, benchmarking, and PyPI distribution.
-
-`NLP` `Bahasa Indonesia` `PII Masking` `Python Package`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [AirSafe School](https://github.com/RedEye1605/airsafe-school)
-
-End-to-end air quality prediction and recommendation system for DKI Jakarta schools, using PM2.5 forecasting, Ordinary Kriging, SHAP explainability, Azure Functions, and Bahasa Indonesia recommendations.
-
-`LightGBM` `Kriging` `SHAP` `Azure Functions` `LLM`
-
-</td>
-<td width="50%" valign="top">
-
-#### [AI-MoodBand](https://github.com/Ditt-A/AI-MoodBand)
-
-Local Flask app for mood check-ins and reflection, using Gemini responses and embeddings, FAISS memory search, daily summaries, optional image context, and safety-aware coaching prompts.
-
-`Flask` `Gemini` `FAISS` `Memory` `Human-centered AI`
+Research Member and Intern<br/>
+Intelligent Systems Laboratory, FILKOM UB
 
 </td>
 </tr>
 </table>
 
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ditt-A&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2EA043&text_color=C9D1D9" alt="Ditt-A GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ditt-A&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Ditt-A top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ditt-A&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=2EA043&currStreakLabel=58A6FF" alt="Ditt-A GitHub streak" />
-</div>
+I build AI systems from data preparation to model experimentation, evaluation, documentation, and deployment. My work spans biometric security, medical imaging, air quality forecasting, Indonesian-language NLP, document-grounded RAG, and privacy-aware AI companions.
 
 ---
 
-### What I Like Building
+## Working Style
 
-| Area | Why it matters |
+```python
+class AdityaAkbar:
+    role = "Computer Science student and applied AI builder"
+    base = "Malang, Indonesia"
+
+    domains = [
+        "retrieval-augmented generation",
+        "computer vision",
+        "natural language processing",
+        "time-series forecasting",
+        "human-centered AI",
+    ]
+
+    def build(self):
+        return [
+            "clean data pipelines",
+            "explainable model experiments",
+            "source-grounded AI workflows",
+            "simple interfaces people can actually use",
+        ]
+```
+
+---
+
+## Technical Toolbox
+
+| Area | Tools |
 | --- | --- |
-| RAG systems | Making specialized documents searchable, explainable, and useful for real users. |
-| Computer vision | Turning visual signals into reliable decisions for health, safety, and trust. |
-| Local-first AI tools | Keeping prototypes easy to run, inspect, and adapt. |
-| Indonesian-language AI | Building tools that understand local language, context, and user needs. |
+| Programming | Python, SQL, Java, PHP, HTML, CSS, JavaScript |
+| ML and Data Science | Pandas, NumPy, Scikit-learn, SHAP, Captum, Matplotlib, Tableau |
+| Deep Learning and CV | PyTorch, TensorFlow, Hugging Face Transformers, OpenCV, MONAI, Ultralytics, Mediapipe |
+| NLP and LLM | Indonesian text preprocessing, RAG, FAISS, PostgreSQL, Gemini/OpenAI workflows, prompt orchestration |
+| Engineering | Git, Anaconda, Flask, Laravel, Docker basics, FastAPI, Streamlit, Azure Functions, technical documentation |
 
 ---
 
-<div align="center">
-  <strong>Thanks for visiting.</strong><br/>
-  I am always exploring practical AI systems that connect research ideas with products people can actually use.
-</div>
+## Technical Achievements
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,45:1F6FEB,100:0D1117&height=120&section=footer" alt="Footer wave" />
+| Achievement | Stack / Evidence |
+| --- | --- |
+| Built a modular DSN-MUI RAG system for Indonesian Islamic finance documents with source-grounded answers and demo-ready API access. | `BGE-M3` `BM25` `RRF` `Qwen3-VL` `FastAPI` `ngrok` |
+| Developed Leksara, an open-source Python library for Indonesian e-commerce text preprocessing and reusable NLP workflows. | `Python Package` `Indonesian NLP` `PII Masking` `Text Normalization` |
+| Implemented a six-class face anti-spoofing pipeline with foundation vision models, face crops, LoRA fine-tuning, TTA, and ensemble fusion. | `DINOv3` `FSFM` `YOLO` `LoRA` `PyTorch` |
+| Built an end-to-end air quality forecasting and recommendation system for school-level decision support. | `LightGBM` `SHAP` `Kriging` `Azure Functions` `LLM` |
+| Ran medical image segmentation experiments comparing U-Net and U-Net++ workflows on MRI tumor segmentation tasks. | `U-Net` `U-Net++` `NIfTI` `Medical Imaging` |
+| Built a local AI companion prototype with memory-aware coaching, daily summaries, and safety-aware response flows. | `Flask` `Gemini` `FAISS` `Vector Memory` |
+| Maintained strong academic performance while building applied AI projects across NLP, CV, time series, and LLM systems. | `GPA 3.73` `Computer Science` `Universitas Brawijaya` |
+
+---
+
+## Selected Work
+
+### Medical Imaging and Vision
+
+**[BrainTumourSegmentation](https://github.com/Ditt-A/BrainTumourSegmentation)**
+
+Research experiments for MRI brain tumor segmentation using U-Net and U-Net++ workflows, pretrained checkpoints, inference notebooks, and comparative reports across training strategies.
+
+`Medical Imaging` `U-Net` `U-Net++` `NIfTI` `PyTorch`
+
+**[Face-Spoofing-Detection](https://github.com/Ditt-A/Face-Spoofing-Detection)**
+
+Deep learning pipeline for classifying real and spoofed face images across six categories, combining DINOv3, FSFM, YOLO-based face crops, LoRA fine-tuning, test-time augmentation, and ensemble probability fusion.
+
+`Computer Vision` `DINOv3` `FSFM` `YOLO` `LoRA`
+
+### RAG and Indonesian NLP
+
+**[DSNMUI_RAG](https://github.com/Ditt-A/DSNMUI_RAG)**
+
+Modular RAG prototype for Indonesian Islamic finance guidance, enabling MSMEs to query DSN-MUI fatwas, akad provisions, and supporting dalil from PDF sources. The pipeline includes PDF extraction, Arabic OCR support, chunking, BGE-M3 embeddings, BM25 indexing, hybrid retrieval, RRF fusion, reranking, optional Qwen3-VL visual reasoning, FastAPI, and ngrok demo access.
+
+`RAG` `BGE-M3` `BM25` `RRF` `Qwen3-VL` `FastAPI`
+
+**[Leksara](https://github.com/RedEye1605/Leksara)**
+
+Open-source Python library for Indonesian e-commerce text preprocessing, covering slang, abbreviations, punctuation, stopwords, contractions, noisy reviews, PII masking, and reusable workflows for downstream NLP and ML tasks.
+
+`Python Package` `NLP` `Bahasa Indonesia` `Text Cleaning` `PII`
+
+### Applied AI Systems
+
+**[AirSafe School](https://github.com/RedEye1605/airsafe-school)**
+
+End-to-end air quality forecasting and school recommendation system using hourly PM2.5 data, weather integration, feature engineering, spatial interpolation, LightGBM, SHAP explainability, Azure Functions, and LLM-powered recommendation flows.
+
+`Time Series` `LightGBM` `SHAP` `Kriging` `Azure Functions` `LLM`
+
+**[AI-MoodBand](https://github.com/Ditt-A/AI-MoodBand)**
+
+Local Flask app for mood check-ins and reflection with listen-first prompting, non-diagnostic guardrails, schema-validated outputs, privacy-aware memory, FAISS retrieval, daily summaries, and stress/emotion analytics.
+
+`Flask` `Gemini` `FAISS` `Memory` `Safety-aware AI`
+
+---
+
+## Technical Experience
+
+| Role | Organization | Technical Focus |
+| --- | --- | --- |
+| Research Member and Research Intern | Intelligent Systems Laboratory, FILKOM Universitas Brawijaya | Applied ML experimentation, NLP/LLM workflows, computer vision, and model evaluation |
+
+---
+
+## GitHub Overview
+
+This profile keeps the overview stable with direct GitHub links instead of fragile third-party stat cards. For activity, code, and project history, the source of truth is here:
+
+<p>
+  <a href="https://github.com/Ditt-A?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse-Repositories-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" />
+  </a>
+  <a href="https://github.com/Ditt-A?tab=stars">
+    <img src="https://img.shields.io/badge/View-Starred%20Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Currently exploring practical AI systems that connect research ideas with reliable user-facing tools.</strong>
+</p>
