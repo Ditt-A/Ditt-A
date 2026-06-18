@@ -16,8 +16,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Universitas%20Brawijaya-00B4D8?style=flat-square" alt="Computer Science at Universitas Brawijaya" />
-  <img src="https://img.shields.io/badge/GPA-3.73-22C55E?style=flat-square" alt="GPA 3.73" />
   <img src="https://img.shields.io/badge/Research-Intelligent%20Systems%20Lab-8B5CF6?style=flat-square" alt="Intelligent Systems Laboratory" />
+  <img src="https://img.shields.io/badge/Competition-Data%20%26%20ML-22C55E?style=flat-square" alt="Competition achievements" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 role        : Computer Science undergraduate, applied AI builder
 location    : Malang, Indonesia
-education   : Universitas Brawijaya, GPA 3.73
+education   : Universitas Brawijaya
 lab         : Intelligent Systems Laboratory, FILKOM UB
 
 focus       : RAG systems, computer vision, NLP, time-series forecasting
@@ -47,9 +47,9 @@ Highlighted AI projects
 </td>
 <td width="25%" align="center">
 
-**3.73**
+**3**
 
-Current GPA
+Competition results
 
 </td>
 <td width="25%" align="center">
@@ -86,66 +86,44 @@ IS Lab FILKOM UB
 
 ---
 
-## Technical Achievements
+## Competition Achievements
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### RAG System Engineering
+### Finalist
 
-Built a modular DSN-MUI RAG system for Indonesian Islamic finance documents with PDF extraction, Arabic OCR support, hybrid retrieval, reranking, visual reasoning, and API demo access.
+**Data Analytics Competition at Find IT! 2026**<br/>
+Universitas Gadjah Mada
 
-`BGE-M3` `BM25` `RRF` `Qwen3-VL` `FastAPI` `ngrok`
+Face spoofing detection for biometric security classification.
 
-</td>
-<td width="50%" valign="top">
-
-### Indonesian NLP Toolkit
-
-Developed Leksara, an open-source Python library for Indonesian e-commerce text preprocessing, including slang normalization, noisy review cleaning, and PII masking workflows.
-
-`Python Package` `NLP` `Text Normalization` `PII Masking`
+`Computer Vision` `Biometric Security`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Face Anti-Spoofing Pipeline
+### Top 7 Finalist
 
-Implemented a six-class spoofing classifier using foundation vision models, face crops, LoRA fine-tuning, test-time augmentation, and ensemble probability fusion.
+**Datavidia Arkavidia 10.0**<br/>
+Institut Teknologi Bandung
 
-`DINOv3` `FSFM` `YOLO` `LoRA` `PyTorch`
+Multivariate time-series forecasting for ISPU category prediction.
 
-</td>
-<td width="50%" valign="top">
-
-### Air Quality Forecasting
-
-Built a school-level PM2.5 forecasting and recommendation system with weather features, spatial interpolation, explainability, serverless functions, and LLM recommendations.
-
-`LightGBM` `SHAP` `Kriging` `Azure Functions` `LLM`
+`Time Series` `Forecasting` `ISPU`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Medical Image Segmentation
+### 12th Place
 
-Ran MRI tumor segmentation experiments comparing U-Net and U-Net++ workflows with inference notebooks, pretrained checkpoints, and experiment reports.
+**Machine Learning Competition Data Slayer 3.0**<br/>
+Telkom University
 
-`U-Net` `U-Net++` `NIfTI` `Medical Imaging`
+Drowsiness detection using video-based machine learning.
 
-</td>
-<td width="50%" valign="top">
-
-### Memory-Aware AI Companion
-
-Built a local Flask prototype for mood check-ins with Gemini responses, vector memory search, daily summaries, stress/emotion analytics, and safety-aware output flows.
-
-`Flask` `Gemini` `FAISS` `Vector Memory`
+`Machine Learning` `Video Analytics`
 
 </td>
 </tr>
@@ -237,9 +215,18 @@ flowchart LR
 
 ---
 
-## Stable GitHub Links
+## GitHub Stats
 
-<p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ditt-A&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="Ditt-A GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ditt-A&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Ditt-A top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ditt-A&theme=tokyonight" alt="Ditt-A profile summary" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Ditt-A?tab=repositories">
     <img src="https://img.shields.io/badge/Browse-Repositories-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" />
   </a>
@@ -247,6 +234,8 @@ flowchart LR
     <img src="https://img.shields.io/badge/View-Starred%20Projects-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <strong>Building applied AI systems that turn messy real-world data into inspectable, source-grounded, and usable tools.</strong>
