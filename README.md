@@ -92,6 +92,10 @@ IS Lab FILKOM UB
 <tr>
 <td width="33%" valign="top">
 
+<p align="center">
+  <img height="58" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Gadjah_Mada_University_Logo.gif/120px-Gadjah_Mada_University_Logo.gif" alt="Universitas Gadjah Mada logo" />
+</p>
+
 ### Finalist
 
 **Data Analytics Competition at Find IT! 2026**<br/>
@@ -104,6 +108,10 @@ Face spoofing detection for biometric security classification.
 </td>
 <td width="33%" valign="top">
 
+<p align="center">
+  <img height="58" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Institut_Teknologi_Bandung_logo.svg/250px-Institut_Teknologi_Bandung_logo.svg.png" alt="Institut Teknologi Bandung logo" />
+</p>
+
 ### Top 7 Finalist
 
 **Datavidia Arkavidia 10.0**<br/>
@@ -115,6 +123,10 @@ Multivariate time-series forecasting for ISPU category prediction.
 
 </td>
 <td width="33%" valign="top">
+
+<p align="center">
+  <img height="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_Telkom_University_potrait.png/250px-Logo_Telkom_University_potrait.png" alt="Telkom University logo" />
+</p>
 
 ### 12th Place
 
@@ -137,7 +149,7 @@ Drowsiness detection using video-based machine learning.
 <tr>
 <td width="50%" valign="top">
 
-### [BrainTumourSegmentation](https://github.com/Ditt-A/BrainTumourSegmentation)
+### 🧠 [BrainTumourSegmentation](https://github.com/Ditt-A/BrainTumourSegmentation)
 
 MRI brain tumor segmentation research using U-Net and U-Net++ pipelines, comparative training reports, checkpoints, and prediction notebooks.
 
@@ -146,7 +158,7 @@ MRI brain tumor segmentation research using U-Net and U-Net++ pipelines, compara
 </td>
 <td width="50%" valign="top">
 
-### [DSNMUI_RAG](https://github.com/Ditt-A/DSNMUI_RAG)
+### 📚 [DSNMUI_RAG](https://github.com/Ditt-A/DSNMUI_RAG)
 
 Document-grounded RAG prototype for DSN-MUI fatwa search with BGE-M3 embeddings, BM25, RRF, reranking, visual dalil extraction, FastAPI, and Streamlit.
 
@@ -157,7 +169,7 @@ Document-grounded RAG prototype for DSN-MUI fatwa search with BGE-M3 embeddings,
 <tr>
 <td width="50%" valign="top">
 
-### [Face-Spoofing-Detection](https://github.com/Ditt-A/Face-Spoofing-Detection)
+### 🛡️ [Face-Spoofing-Detection](https://github.com/Ditt-A/Face-Spoofing-Detection)
 
 Real/spoof face classification across printed, screen, mask, mannequin, unknown spoof, and genuine classes using ensemble deep vision branches.
 
@@ -166,7 +178,7 @@ Real/spoof face classification across printed, screen, mask, mannequin, unknown 
 </td>
 <td width="50%" valign="top">
 
-### [Leksara](https://github.com/RedEye1605/Leksara)
+### ✍️ [Leksara](https://github.com/RedEye1605/Leksara)
 
 Production-oriented Indonesian text preprocessing library for review pipelines, PII masking, slang normalization, and reusable dataset cleaning.
 
@@ -177,7 +189,7 @@ Production-oriented Indonesian text preprocessing library for review pipelines, 
 <tr>
 <td width="50%" valign="top">
 
-### [AirSafe School](https://github.com/RedEye1605/airsafe-school)
+### 🌫️ [AirSafe School](https://github.com/RedEye1605/airsafe-school)
 
 Air quality prediction and recommendation system for DKI Jakarta schools using time-series features, LightGBM, Kriging, SHAP, and Azure Functions.
 
@@ -186,7 +198,7 @@ Air quality prediction and recommendation system for DKI Jakarta schools using t
 </td>
 <td width="50%" valign="top">
 
-### [AI-MoodBand](https://github.com/Ditt-A/AI-MoodBand)
+### 💭 [AI-MoodBand](https://github.com/Ditt-A/AI-MoodBand)
 
 Local AI reflection app with Gemini, FAISS memory retrieval, daily summaries, optional image context, and safety-aware coaching responses.
 
