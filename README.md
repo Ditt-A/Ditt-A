@@ -29,7 +29,7 @@
 
 role        : Computer Science undergraduate, applied AI builder
 location    : Malang, Indonesia
-education   : Universitas Brawijaya (2024–present), GPA 3.8
+education   : Universitas Brawijaya (2024–present)
 lab         : Intelligent Systems Laboratory, FILKOM UB
 community   : Data Scientist & Vice Head of Talent Development, BCC FILKOM UB
 website     : https://www.adtyaakbr.my.id/
